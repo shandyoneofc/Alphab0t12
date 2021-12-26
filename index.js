@@ -1832,13 +1832,13 @@ const checkWin = (sender) => {
         }
       }
     }
-    if (isGroup && !mek.key.fromMe && isAntiLink && !isGroupAdmins && !isOwner && !isCreator && isBotGroupAdmins){
+    if (isGroup && !mek.key.fromMe && !isGroupAdmins && !isOwner && !isCreator && isBotGroupAdmins){
             if (chatxs.match(/(https:\/\/chat.whatsapp.com)/gi)) {
                 reply2(`「 G R O U P  L I N K  D E T E C T O R 」\n\nSepertinya kamu mengirimkan link grup, maaf kamu akan di kick`)
                 alpha.groupRemove(from, [sender])
             }
         }
-     if (isGroup && isAntivirtex && !mek.key.fromMe && !isOwner) {
+     if (isGroup && !mek.key.fromMe && !isOwner) {
       if (budy.length > 1000) {
         if (isGroupAdmins) return reply2("admin bebas");
         reply2("「 A N T I V I R T E X  D E T E C T E D 」 \n\nMaaf Kamu Akan Dikick");
