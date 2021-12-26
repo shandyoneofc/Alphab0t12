@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi http://wa.me/6285600616877_
+│ ⤷ _Minat? Hubungi wa.me/6289526982240_
 │
 ╰──「 *Thank's* 」
 `
