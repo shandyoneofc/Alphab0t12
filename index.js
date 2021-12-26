@@ -154,11 +154,11 @@ var qr_code_ovo = 'https://telegra.ph/file/256e5087c3a3c773dde47.jpg' //gk usah 
 var qr_code_dana = 'https://telegra.ph/file/c221b1b886e2da462aeff.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://telegra.ph/file/e379e863959806b2a63ca.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
-var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
-var __minggu = 'Rp 15.000,00'
-var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 22.000,00'
-var _permanen = 'Rp 100.000,00'
+var _minggu = 'Rp 2.000,00' //Masukkan harga sewa sesuai keinginan
+var __minggu = 'Rp 3.000,00'
+var ___minggu = 'Rp 4.000,00'
+var _bulan = 'Rp 5.000,00'
+var _permanen = 'Rp 10.000,00'
 var __permanen = 'Rp 150.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
@@ -194,8 +194,8 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
+baper = 'SUB YT SHANDYONE OFC'
+apiku = 'https://youtube.com/channel/UCeJI55BIRITTNcuf1LjKmgA'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
